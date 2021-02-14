@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @alphajames
 - 👀 I’m interested in Wed Development
 - 🌱 I’m currently learning Front-end and Back-end Web Structures
-- 💞️ I’m looking to collaborate on Website Development
 - 📫 How to reach me checkout my portfolio 
+
+⚫ ig - ghttoalpha 
+⚫ linkedin - https://bit.ly/2OEdCUH 
+⚫ email - alphajames1998@gmail.com 
+
+⚫ minimal and creative web structures ⬜
 
 <!---
 alphajames/alphajames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
