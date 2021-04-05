@@ -5,7 +5,7 @@
 
 ⚫ ig - ghttoalpha 
 ⚫ linkedin - https://bit.ly/2OEdCUH 
-⚫ email - alphajames1998@gmail.com 
+⚫ email - alphacancode@gmail.com
 
 ⚫ minimal and creative web structures ⬜
 
