@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @alphajames
+<h2> 👋 Hi, I’m James <h2> 
+<h3>
 - 👀 I’m interested in Wed Development
 - 🌱 I’m currently learning Front-end and Back-end Web Structures
 - 📫 How to reach me checkout my portfolio 
-
+ </h3>
+ <ul>
 ⚫ ig - ghttoalpha 
 ⚫ linkedin - https://bit.ly/2OEdCUH 
 ⚫ email - alphacancode@gmail.com
+</ul>
 
 ⚫ minimal and creative web structures ⬜
 
