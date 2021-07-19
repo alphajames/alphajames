@@ -2,7 +2,7 @@
 <h3>👀 I’m interested in Wed Development</h3>
 
  <h3>🌱 I’m currently learning Front-end and Back-end Web Structures</h3>
- <h3> 📫 How to reach me checkout my portfolio: https://alphajames.github.io/portfolio/ </h3>
+ <h3> 📫 How to reach me checkout my portfolio: https://github.com/alphajames/portfolio-design</h3>
  <h4> </h4>
  <ul>
  <li> ⚫ ig - ghttoalpha </li>
