@@ -4,12 +4,8 @@
  <h3>🌱 I’m currently learning Front-end and Back-end Web Structures</h3>
  <h3> 📫 How to reach me checkout my portfolio: https://alphajames.github.io/portfolio-design/</h3>
  <h4> </h4>
- <ul>
- <li> ⚫ ig - ghttoalpha </li>
-  <li> ⚫ linkedin - https://bit.ly/2OEdCUH </li>
-  <li> ⚫ email - alphacancode@gmail.com </li>
-   <li> ⚫ minimal and creative web structures ⬜ </li>
-</ul>
+ 
+![alphajames's Stats](https://github-readme-stats.vercel.app/api?username=alphajames&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
 
