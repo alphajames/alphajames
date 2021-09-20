@@ -2,8 +2,8 @@
 
  
 <div> 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=alphajames&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alphajames&theme=vue-dark&hide_border=tru" /> 
+<img width="460" src="https://github-readme-stats.vercel.app/api?username=alphajames&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<img width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=alphajames&theme=vue-dark&hide_border=tru" /> 
  </div>
 
 
